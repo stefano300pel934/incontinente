@@ -1,11 +1,10 @@
 
 ---
 title: Evasione fiscale in Italia
-date: "2022-04-11T22:12:03.284Z"
+date: "2022-04-01T22:12:03.284Z"
 description: "Evasione fiscale in Italia"
 ---
 
-# Evasione fiscale in Italia
 
 Come nasce il problema dell'evasione in Italia ? Nasce nel momento in cui i governi hanno deciso  di scaricare la colpa dell'economia stagnante sui cittadini. Perchè diciamocela tutta, se uno Stato volesse veramente recuperare le tasse perdute ci metterebbe al massimo qualche mese.
 
