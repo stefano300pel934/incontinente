@@ -1,5 +1,8 @@
-
-# Evasione fiscale in Italia
+---
+title: Hello World
+date: "2015-05"
+description: "Hello World"
+---
 
 
 Come nasce il problema dell'evasione in Italia ? Nasce nel momento in cui i governi hanno deciso  di scaricare la colpa dell'economia stagnante sui cittadini. Perchè diciamocela tutta, se uno Stato volesse veramente recuperare le tasse perdute ci metterebbe al massimo qualche mese.
