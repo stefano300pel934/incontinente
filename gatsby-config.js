@@ -5,11 +5,9 @@ module.exports = {
       name: `Privato`,
       summary: `chi scrive non riesce a trattenersi. Vorrebbe un Paese migliore`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: ``,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
-    social: {
-      twitter: `kylemathews`,
-    },
+    
   },
   plugins: [
     `gatsby-plugin-image`,
