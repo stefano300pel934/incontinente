@@ -1,10 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `L'incontinente`,
-    author: {
-      name: `Privato`,
-      summary: `chi scrive non riesce a trattenersi. Vorrebbe un Paese migliore`,
-    },
+ 
     description: ``,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     
