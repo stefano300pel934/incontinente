@@ -43,7 +43,7 @@ Questo di solito salta fuori quando si parla di qualcosa di grave. Di solito si 
 Diciamo che la storia la scrivono i vincitori. Siccome l'occidente è abbastanza coeso e domina la scena mondiale (ancora per poco) da oltre 70 anni le fonti su avvenimenti storici sono sempre occidentali, scritte da 
 occidentali per occidentali. Quando mai abbiamo sentito una campana diversa ? magari asiatica, magari araba o africana. 
 
-Per fare una <b> ricerca della verità <b> bisogna avere almeno 2 fonti per schieramento. Legarsi solo a quella del proprio non è ricercare la verità, è fare il tifo. In tribunale c'è sempre l'accusa e la difesa. Quando scrivono 
+Per fare una <b> ricerca della verità </b> bisogna avere almeno 2 fonti per schieramento. Legarsi solo a quella del proprio non è ricercare la verità, è fare il tifo. In tribunale c'è sempre l'accusa e la difesa. Quando scrivono 
 i giornali c'è solo l'accusa. Non c'è nessuno che può difendersi. Se provi a ricercare la verità, a sollevare il dubbio partono gli appellativi (assassino, fascista, dittatore ecc...). Come frecce.
 
 Quando si parla di morti, purtroppo contano solo quelli occidentali. Guardate la guerra in Russia, i morti che si contano sono quelli Ucraini, mai quelli Russi. Se si fa la conta dei morti Russi è solo per tirare un sospiro di sollievo.
@@ -66,4 +66,4 @@ Fanno leva sulle vostre paure. Contano i morti, i malati, i feriti, i contagiati
 la tv, fatevi una passeggiata, da soli. Respirate.
   
 
-"In Italia esiste la libertà di pensiero. Sei libero di pensare ma non di esprimerti. Pensa ! Pensa ! Ma stai zitto, grazie."
+<b>"In Italia esiste la libertà di pensiero. Sei libero di pensare ma non di esprimerti. Pensa ! Pensa ! Ma stai zitto, grazie."</b>
