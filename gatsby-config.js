@@ -3,7 +3,7 @@ module.exports = {
     title: `L'incontinente`,
  
     description: ``,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://incontinente.com`,
     
   },
   plugins: [
