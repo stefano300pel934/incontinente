@@ -1,20 +1,8 @@
 ---
-title: Liberta di pensiero in Italia
+title: Libertà di pensiero in Italia
 date: "2022-04"
 description: "Libertà di pensiero in Italia"
 ---
-
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="Description" CONTENT="Libertà di pensiero in Italia. Le armi di chi comanda in democrazia">
-    <title>"Libertà di pensiero in Italia - incontinente"</title>
-    <meta name="robots">
-  </head>
-</html>
-
-
 
 
 "Tutti hanno diritto di manifestare liberamente il proprio pensiero con la parola, lo scritto e ogni altro mezzo di diffusione. La stampa non può essere soggetta ad autorizzazioni o censure."
