@@ -4,6 +4,20 @@ date: "2022-04"
 description: "Libertà di pensiero in Italia"
 ---
 
+```html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Libertà di pensiero in Italia</title>
+</head>
+<body>
+<p>Test</p>
+</body>
+</html>
+```
+
 
 "Tutti hanno diritto di manifestare liberamente il proprio pensiero con la parola, lo scritto e ogni altro mezzo di diffusione. La stampa non può essere soggetta ad autorizzazioni o censure."
 
