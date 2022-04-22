@@ -1,18 +1,10 @@
 ---
-title: Evasione fiscale in Italia
+title: Evasione fiscale italia. Di chi è veramente la colpa
 date: "2022-04"
 description: "Evasione fiscale in Italia"
 ---
 
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="Description" CONTENT="Evasione fiscale italia. Di chi è veramente la colpa. Chi può fare qualcosa ?">
-    <title>"Evasione fiscale italia. Di chi è veramente la colpa"</title>
-    <meta name="robots">
-  </head>
-</html>
 
 Come nasce il problema dell'evasione in Italia ? Nasce nel momento in cui i governi hanno deciso  di scaricare la colpa dell'economia stagnante sui cittadini. Perchè diciamocela tutta, se uno Stato volesse veramente recuperare le tasse perdute ci metterebbe al massimo qualche mese.
 
